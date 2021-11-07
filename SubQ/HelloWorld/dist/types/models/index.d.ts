@@ -1,0 +1,1 @@
+export { StarterEntity } from "./StarterEntity";
